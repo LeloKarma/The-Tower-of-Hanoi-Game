@@ -1,7 +1,11 @@
 # Tower of Hanoi
 
 Tower of Hanoi is a classic mathematical puzzle where the objective is to move the entire stack of disks from one rod to another. This implementation provides a graphical interface using Tkinter in Python.
-
+It has the was time complexity O(e^n) because for every input the output gotten is an exponential of the input.
+that said 
+2disks = 4moves
+3disks = 7moves
+4disks = 15moves ..
 ## Features
 
 - Interactive graphical interface
